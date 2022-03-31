@@ -1,0 +1,42 @@
+body {
+    background-color: #99ffcc
+
+
+
+
+}
+table{
+    width: 85%;
+    border-collapse: collapse;
+    align-content: center;
+}
+table, th, td{
+    border: 3px solid;
+    text-align: left;
+}
+th{
+    height: 70px;
+}
+td{
+    height: 45px;
+}
+
+td.td1{
+    font-weight: bold;
+}
+p{
+    width: 65%;
+    font-size: 17px;
+}
+h1{
+    text-align: center;
+    text-decoration-line: underline;
+    text-shadow: 2px 2px 5px green;
+    font-family: Courier New, Monospace;
+    font-size: 60px;
+}
+h2 {
+    font-size: 35px;
+    color: #009900
+}
+
